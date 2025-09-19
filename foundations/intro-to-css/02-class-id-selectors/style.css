@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.odd {
+    background-color: lightpink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#numba-2{
+    color:blue;
+    font-size:36px;
+}
+
+#cooler {
+    font-size:24px;
+}
+
+#another-id {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size:24px;
+}
+
